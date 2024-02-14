@@ -1,0 +1,74 @@
+* {
+    font-family: "Protest Riot", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 20px 0 20px 50px;
+}
+
+.link-header {
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 15px;
+    color: #000000;
+    cursor: pointer;
+    padding: 16px;
+}
+.logar{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 15px;
+    border:none;
+    color: #030303;
+cursor: pointer;
+}
+ 
+.logo-jesus {
+    width: 650px;
+    height: 500px;
+    margin: 4px 0 20px 15px;
+    display: inline-block;
+margin: 00 20px 500px 15px;
+}
+
+
+.paragrafo-1{
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 100px;
+    line-height: 80px;
+    color: #0e726d;
+    width: 900px;
+margin: 20px 0 15px 15px ;
+}
+#texto-1 {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 80px;
+    color: #2a3d42;
+    width: 800px;
+margin: 0 0 90px 15px;
+}
+
+.apostolo{
+    width: 650px;
+    height: 500px;  
+display: inline-block;
+}
+
+#texto-2{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 80px;
+    color: #1d383f;
+width: 800px;
+margin: 20px 0 0 40px;
+display: inline-block;
+}
